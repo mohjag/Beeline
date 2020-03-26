@@ -1,0 +1,10 @@
+1. Google acccounts read from text file
+	Load in list box
+
+
+2. List box
+	Google account names - Select account - table updates
+
+
+3. Table
+	Folder names - files count
